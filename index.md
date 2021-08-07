@@ -57,4 +57,4 @@ Support MP-BGP,Extended Next Hop
 | Wireguard Pubkey | `YhYQ1iNXFfbHKwYrglUgTQaIxy7unNRUSFEq8S6u4h4=` |
 
 #### Contact Me
-Please contact via [Email](mailto:hinatakato@outlook.com)
+Please contact me via [Email](mailto:hinatakato@outlook.com)
