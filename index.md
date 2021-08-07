@@ -2,6 +2,7 @@
 
 #### SHA_CN 01 (NAT IPv4/IPv6)
 Support MP-BGP
+
 | Info             | Detail                 |
 | :--------------- | :--------------------- |
 | DN42-IPv4        | `172.23.215.225`       |
@@ -15,6 +16,7 @@ Support MP-BGP
 
 #### TYO_JP 01 (IPv4/IPv6)
 Support MP-BGP
+
 | Info             | Detail                 |
 | :--------------- | :--------------------- |
 | DN42-IPv4        | `172.23.215.226`       |
@@ -26,6 +28,7 @@ Support MP-BGP
 
 #### LAS_US 01 (IPv4/IPv6)
 Support MP-BGP,Extended Next Hop
+
 | Info             | Detail                 |
 | :--------------- | :--------------------- |
 | DN42-IPv4        | `172.23.215.228`       |
@@ -37,6 +40,7 @@ Support MP-BGP,Extended Next Hop
 
 #### LAS_US 01 (IPv4/IPv6)
 Support MP-BGP,Extended Next Hop
+
 | Info             | Detail                 |
 | :--------------- | :--------------------- |
 | DN42-IPv4        | `172.23.215.229`       |
