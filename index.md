@@ -1,5 +1,11 @@
 ## Peering info for 4242423724
 
+### Prefixes
+
+IPv4: `172.23.215.224/27`, `172.22.162.64/27`
+
+IPv6: `fdb8:946a:bc01::/48`
+
 #### SHA_CN 01 (NAT IPv4/IPv6)
 Support MP-BGP
 
@@ -51,4 +57,4 @@ Support MP-BGP,Extended Next Hop
 | Wireguard Pubkey | `YhYQ1iNXFfbHKwYrglUgTQaIxy7unNRUSFEq8S6u4h4=` |
 
 #### Contact Me
-Please contact hinatakato@outlook.com
+Please contact via [Email](mailto:hinatakato@outlook.com)
