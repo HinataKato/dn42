@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Peering info for 4242423724
 
-You can use the [editor on GitHub](https://github.com/HinataKato/hinatakato.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+#### SHA_CN 01 (NAT IPv4/IPv6)
+Support MP-BGP
+| Info             | Detail                 |
+| :--------------- | :--------------------- |
+| DN42-IPv4        | `172.23.215.225`       |
+| DN42-IPv6        | `fdb8:946a:bc01:100::` |
+| Link-local-IPv6  | `fe80::3724/64`        |
+| Endpoint*        | `Please contact me`    |
+| Wireguard Port   | `Last 5 digit of your ASN` |
+| Wireguard Pubkey | `IWtK8yNHQTMrLzMJyquPUOBpGjZ7OfuonQLegTlmw0M=` |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*: This Endpoint is IPv6-only
 
-### Markdown
+#### TYO_JP 01 (IPv4/IPv6)
+Support MP-BGP
+| Info             | Detail                 |
+| :--------------- | :--------------------- |
+| DN42-IPv4        | `172.23.215.226`       |
+| DN42-IPv6        | `fdb8:946a:bc01:101::` |
+| Link-local-IPv6  | `fe80::3724/64`        |
+| Endpoint         | `tyo01.jp.42.katohinata.eu.org` |
+| Wireguard Port   | `Last 5 digit of your ASN` |
+| Wireguard Pubkey | `zhtttxYDZtt/iIdm5HqG5G+g7iJHciJwLbLB/6Rjy1s=` |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### LAS_US 01 (IPv4/IPv6)
+Support MP-BGP,Extended Next Hop
+| Info             | Detail                 |
+| :--------------- | :--------------------- |
+| DN42-IPv4        | `172.23.215.228`       |
+| DN42-IPv6        | `fdb8:946a:bc01:103::` |
+| Link-local-IPv6  | `fe80::3724/64`        |
+| Endpoint         | `las01.us.42.katohinata.eu.org` |
+| Wireguard Port   | `Last 5 digit of your ASN` |
+| Wireguard Pubkey | `W8IoIklrTsWKDJEJ35kh1aHPO9CIyyfNBF/MptzX4jw=` |
 
-```markdown
-Syntax highlighted code block
+#### LAS_US 01 (IPv4/IPv6)
+Support MP-BGP,Extended Next Hop
+| Info             | Detail                 |
+| :--------------- | :--------------------- |
+| DN42-IPv4        | `172.23.215.229`       |
+| DN42-IPv6        | `fdb8:946a:bc01:104::` |
+| Link-local-IPv6  | `fe80::3724/64`        |
+| Endpoint         | `lux01.lu.42.katohinata.eu.or` |
+| Wireguard Port   | `Last 5 digit of your ASN` |
+| Wireguard Pubkey | `YhYQ1iNXFfbHKwYrglUgTQaIxy7unNRUSFEq8S6u4h4=` |
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HinataKato/hinatakato.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Contact Me
+Please contact hinatakato@outlook.com
