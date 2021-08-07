@@ -44,7 +44,7 @@ Support MP-BGP,Extended Next Hop
 | Wireguard Port   | `Last 5 digit of your ASN` |
 | Wireguard Pubkey | `W8IoIklrTsWKDJEJ35kh1aHPO9CIyyfNBF/MptzX4jw=` |
 
-#### LAS_US 01 (IPv4/IPv6)
+#### LUX_LU 01 (IPv4/IPv6)
 Support MP-BGP,Extended Next Hop
 
 | Info             | Detail                 |
@@ -52,7 +52,7 @@ Support MP-BGP,Extended Next Hop
 | DN42-IPv4        | `172.23.215.229`       |
 | DN42-IPv6        | `fdb8:946a:bc01:104::` |
 | Link-local-IPv6  | `fe80::3724/64`        |
-| Endpoint         | `lux01.lu.42.katohinata.eu.or` |
+| Endpoint         | `lux01.lu.42.katohinata.eu.org` |
 | Wireguard Port   | `Last 5 digit of your ASN` |
 | Wireguard Pubkey | `YhYQ1iNXFfbHKwYrglUgTQaIxy7unNRUSFEq8S6u4h4=` |
 
